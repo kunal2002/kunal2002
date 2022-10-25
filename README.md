@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kunal2002
+- 👋 Hi, I’m Kunal Nayyar
 - 👀 I’m interested in Competitive Programming and Web Development
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on cool projects regarding machine learning, web dev
