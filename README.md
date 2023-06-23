@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kunal Nayyar
-- 👀 I’m interested in Competitive Programming and Web Development
+- 👀 I’m interested in Competitive Programming and Machine Learning
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on cool projects regarding machine learning, web dev
 - 📫 How to reach me k.nayyar2002@gmail.com
